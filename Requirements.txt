@@ -1,0 +1,4 @@
+####### Required libraries without specific version modifiers
+robotframework
+robotframework-browser
+robotframework-keepasslibrary

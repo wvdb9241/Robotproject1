@@ -1,0 +1,28 @@
+{"level":30,"time":"2023-02-22T12:06:54.714Z","pid":16828,"hostname":"Omoikane","msg":"Listening on 50809"}
+{"level":30,"time":"2023-02-22T12:06:54.880Z","pid":16828,"hostname":"Omoikane","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-22T12:06:54.880Z","pid":16828,"hostname":"Omoikane","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-22T12:06:54.882Z","pid":16828,"hostname":"Omoikane","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-22T12:06:54.882Z","pid":16828,"hostname":"Omoikane","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-22T12:06:54.886Z","pid":16828,"hostname":"Omoikane","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-02-22T12:06:55.114Z","pid":16828,"hostname":"Omoikane","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-02-22T12:06:55.116Z","pid":16828,"hostname":"Omoikane","msg":"Start of node method newContext"}
+{"level":30,"time":"2023-02-22T12:06:55.116Z","pid":16828,"hostname":"Omoikane","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-02-22T12:06:55.116Z","pid":16828,"hostname":"Omoikane","msg":"Trace file: "}
+{"level":30,"time":"2023-02-22T12:06:55.122Z","pid":16828,"hostname":"Omoikane","msg":"Changed active context"}
+{"level":30,"time":"2023-02-22T12:06:55.123Z","pid":16828,"hostname":"Omoikane","msg":"End of node method newContext"}
+{"level":30,"time":"2023-02-22T12:06:55.125Z","pid":16828,"hostname":"Omoikane","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-02-22T12:06:55.125Z","pid":16828,"hostname":"Omoikane","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-02-22T12:06:55.204Z","pid":16828,"hostname":"Omoikane","msg":"Video path: undefined"}
+{"level":30,"time":"2023-02-22T12:06:55.205Z","pid":16828,"hostname":"Omoikane","msg":"Changed active page"}
+{"level":30,"time":"2023-02-22T12:06:58.339Z","pid":16828,"hostname":"Omoikane","msg":"End of node method newPage"}
+{"level":30,"time":"2023-02-22T12:06:58.342Z","pid":16828,"hostname":"Omoikane","msg":"Start of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2023-02-22T12:06:58.841Z","pid":16828,"hostname":"Omoikane","msg":"End of node method waitUntilNetworkIsIdle"}
+{"level":30,"time":"2023-02-22T12:06:58.844Z","pid":16828,"hostname":"Omoikane","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2023-02-22T12:06:58.847Z","pid":16828,"hostname":"Omoikane","msg":"Removed page=ebbe1aa0-ede4-4ffc-b945-08f3bbbe9848 from context=9dbd9471-98fd-41eb-ad61-584979a7eb8e page stack"}
+{"level":30,"time":"2023-02-22T12:06:58.875Z","pid":16828,"hostname":"Omoikane","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2023-02-22T12:06:58.877Z","pid":16828,"hostname":"Omoikane","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-22T12:06:58.877Z","pid":16828,"hostname":"Omoikane","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-22T12:06:58.879Z","pid":16828,"hostname":"Omoikane","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-22T12:06:58.879Z","pid":16828,"hostname":"Omoikane","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-22T12:06:58.895Z","pid":16828,"hostname":"Omoikane","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-02-22T12:06:58.896Z","pid":16828,"hostname":"Omoikane","msg":"End of node method closeAllBrowsers"}
